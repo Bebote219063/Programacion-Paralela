@@ -8,9 +8,6 @@ Integrantes (orden alfabético por primer apellido):
 Este repositorio contiene las prácticas de OpenMP desarrolladas para el curso, cada una en
 su propia carpeta.
 
-⚠️ **Nota:** este repositorio incluye únicamente las prácticas trabajadas hasta el momento.
-Verifiquen con el resto del equipo si faltan otras prácticas del curso por agregar antes de
-la entrega final.
 
 ## Contenido
 
